@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>HTML ME SOMETHING</title>
+  
+  
+  
+      <link rel="stylesheet" href="./style.css">
+
+  
+</head>
+
+<body>
+
+  <div id="main">
+  <u><b><h1 id="title">Rosa Parks</h1></b;></u>
+  <div>
+  <header>"You must never be fearful about what you are doing when it is right."</header>
+  </div>
+  <div id="img-div">
+    <img id="image" src="https://www.biography.com/.image/t_share/MTQ1MTM5Nzk3MDg0NzQzMDY0/rosa-parks---legacy.jpg" alt "picture from nbc news">
+    <div id="img-caption">
+      Rosa Parks sitting in the front seat of a bus during a time of segregation. </div>
+  </div>
+  <div id="achievements">
+  </div>
+  <div id="tribute-info">
+    <h3 id="headline"><u>Here's a chronological timeline of Rosa Parks' life and acomplishments</u></h3>
+
+    <ul>
+      <li><b><u>1913</u></b> Rosa Parks was born on Febuary 4th in Tuskegee Alabama.</li>
+      <li><b><u>1928</u></b> Drops out of highschool due to her grandmothers illness.</li>
+      <li><b><u>1929</u></b> She attends Alabama State Teachers College for Negroes</li>
+      <li><b><u>1932</u></b> Marries Raymond Parks on December 18th</li>
+
+      <li><b><u>1934</u></b> Recieves her high school diploma.</li>
+
+      <li><b><u>1935</u></b> Baltimore Court rules that African American Donald Murray must be allowed to attend white law school.</li>
+      <li><b><u>1939</u></b> World War II begins</li>
+      <li><b><u>1943</u></b> Rosa Parks refuses to give up her seat on a segregated bus and is ejected from it.
+      </li>
+      <li><b><u>1943</u></b>
+        <font-color=B lak>Becomes secretary of the Montgomery NAACP (National Association for the Advancement of Colored People)</font>
+      </li>
+
+      <li><b><u>1945</u></b> World War II ends. </li>
+
+      <li><b><u>1946</u></b> United States Supreme Court banned segregation in interstate bus travel.</li>
+      <li><b><u>1954</u></b>United States Supreme Court rules that segregation in schools is unconstitutional.</li>
+      <li><b><u>1956</u></b> Montgomry busses are desegregated.</li>
+      <li><b><u>1957</u></b> Rosa Parks takes a job at Virginia University, and congress passes the Civil rights act, beginning mandated integration in schools.</li>
+      <li><b><u>1960</u></b> Civil Rights Act is signed into law.</li>
+      <li><b><u>1977</u>
+</b> Her Husband Raymond Parks dies of cancer. </li>
+      <li><b><u> 1979</u></b> Rosa Parks receives NAACP's Spingarn Medal</li>
+      <li><b><u>1987</u></b> Rosa Parks founds the Rosa and Raymond Parks Institute for Self Development, which offers guidance to young african americans.</li>
+      <li><b><u>1988</u></b> Rosa Parks retires from congressman.</li>
+      <li><b><u>1996</u></b> Rosa Parks recieves the medal of freedom. </li>
+      <li><b><u>1997</u></b> The first Monday following February 4th is designated as Rosa Parks Day</li>
+      <li><b><u>1998</u></b> April 21: The Rosa Parks Museum and Library is opened at her arrest site in Montgomery, Alabama September 2: The Rosa L. Parks Learning Center is opened.</li>
+      <li><b><u>1999</u></b> President Clinton awards Rosa the 250th Congressional Gold Medal of Honor, the highest honor a civilian can receive in the United States Rosa Parks meets with the Pope in St. Louis. </li>
+      <li><b><u>2000</u></b> Opening of Rosa Parks Museum and Library at Troy State University Montgomery, on the site where she was arrested in 1955. </li>
+
+      <li><b><u>2003</u></b> Rosa Parks is honored with the International Institute Heritage Hall of Fame Award. </li>
+      <li><b><u>2005</u></b> Rosa Parks dies on October 24th in her detroit home.</li>
+    </ul>
+
+    <blockquote>
+      <p><i>â€œRosa Parks was of the purest personification of strength. She lived a life clothed in meekness and genteel humility. Though she never bore children, her deep love for them made each of us stronger by her example of self-respect and righteous indignation. She remained seated so that all, everywhere, might standâ€¦taller.â€</i><b> -Angela Bassett</b></p>
+      <div id="closing-link">
+
+        <h3>To learn more about this incredible woman, Rosa Parks, please visit her <a id="tribute-link" href="http://www.rosaparks.org/biography/" target="_blank"> official online biography</a>.</h3>
+      </div>
+ <footer>
+  <p>Posted by: Keffles</p>
+  <p>Last Updated: July, 2019<a href="mailto:Keffles@example.com">
+  someone@fakeurl.com</a>.</p>
+</footer> 
+  
+  
+
+</body>
+
+</html>
